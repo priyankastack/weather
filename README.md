@@ -1,7 +1,6 @@
 ## Skytracker
 # Weather App ⛅
 
-link-
 
 A Weather App built using HTML, CSS, JavaScript, and integrated with the Weather API to fetch real-time weather data for any city. The app features a clean and responsive UI that allows users to search for the weather conditions in different cities globally.
 
